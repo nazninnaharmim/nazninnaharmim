@@ -1,51 +1,51 @@
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saurav Sarkar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naznin Nahar
 =====================================================================================================================================
 
 Student
 -------
-![](https://media.licdn.com/dms/image/D4E16AQFxdfyPRbMWLw/profile-displaybackgroundimage-shrink_350_1400/0/1663607589202?e=1695859200&v=beta&t=SGoZwH0ZzNkn8LscO0Smpnmnv3Beiv7B9nVMrteehAs)
+![](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/365388175_998516867839271_2759214903658506379_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeEiw3hyWyoQxgiprpna4f-ALt34kgQC2wAu3fiSBALbAEPcNafofzY-JMHbURvKdCWpDc0-3rqxwsTHIhdoCkWy&_nc_ohc=7uidX8i4czQAX-lZfn6&_nc_ht=scontent.fdac99-1.fna&oh=00_AfB0QWuPO9Z9XAzje-DocDjYa9sHNJjQeP7i6uuRN8AwOA&oe=64DD1C6E)
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/nazninnahaarmim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/nazninnahaarmim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nazninnahaarmim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nazninnahaarmim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-My name is Saurav Sarkar, and I'm delighted to introduce myself to you. I am currently student of Science in Computer Science & Engineering at the American International University-Bangladesh, pursuing my Study with enthusiasm and dedication.Throughout my journey, demonstrating my commitment to learning and personal growth.Creative thinking is a passion of mine, and I enjoy exploring innovative solutions to problems. Problem solving is another strength, as I enjoy tackling challenges head-on and finding solutions.Outside of academics, I am an active volunteer at an organization called Chalkboard, I have a knack for arts, where I find joy in expressing myself creatively. I am a dedicated student with a passion for learning, a problem solver, a creative thinker. I want to keep improving intellectually and personally.
+My name is Naznin Nahar, 
 
-<a href="http://www.github.com/sauraavsarkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sauraavsarkar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/nazninnahaarmim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sauraavsarkar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 * 🌍  I'm based in Narsingdi, Dhaka, Bangladesh
-* ✉️  You can contact me at [sauraavsarkar@gmail.com](mailto:sauraavsarkar@gmail.com)
-* 🚀  I'm currently working on [.net framework project.](http:// )
-* 🧠  I'm learning .net framework.
+* ✉️  You can contact me at [nazninnahar9mimr@gmail.com](mailto:nazninnahar9mim@gmail.com)
+
+
 * 🤝  I'm open to collaborating on Web Development project.
-* ⚡  I'm secretly Spiderman... but don't tell anyone.
 
-<a href="https://www.github.com/sauraavsarkar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sauraavsarkar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauraavsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="sauraavsarkar" /> </p>
+<a href="https://www.github.com/nazninnahaarmim" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/nazninnahaarmim?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazninnahaarmim&label=Profile%20views&color=0e75b6&style=flat" alt="nazninnahaarmim" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauraavsarkar&show_icons=true&locale=en&layout=compact" alt="sauraavsarkar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazninnahaarmim&show_icons=true&locale=en&layout=compact" alt="nazninnahaarmim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauraavsarkar&show_icons=true&locale=en" alt="sauraavsarkar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazninnahaarmim&show_icons=true&locale=en" alt="sauraavsarkar" /></p>
 
 ### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+
+
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
@@ -66,6 +66,6 @@ src="https://img.shields.io/github/followers/sauraavsarkar?logo=github&style=for
 </p>
 
 
-![GitHub metrics](https://metrics.lecoq.io/sauraavsarkar)  
+![GitHub metrics](https://metrics.lecoq.io/nazninnahaarmim)  
 
 
