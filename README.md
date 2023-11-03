@@ -15,7 +15,7 @@ My name is Naznin Nahar,
 
 <a href="http://www.github.com/nazninnahaarmim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sauraavsarkar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-* 🌍  I'm based in Narsingdi, Dhaka, Bangladesh
+* 🌍  I'm based in Dhaka, Bangladesh.
 * ✉️  You can contact me at [nazninnahar9mimr@gmail.com](mailto:nazninnahar9mim@gmail.com)
 
 
